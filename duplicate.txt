@@ -1,0 +1,5 @@
+duplicated=df[df.duplicated()]
+duplicated
+missing
+missing_data_summary=merged_df.isnull().sum()
+missing_data_summary
